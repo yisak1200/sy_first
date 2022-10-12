@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Courier New';
+    font-weight: bold;
+}
+
+p {
+    font-size: 35px;
+    text-align: center;
+    background-color: lightblue;
+    font-family: 'Courier New';
+}
