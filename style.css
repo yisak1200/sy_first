@@ -11,3 +11,9 @@ p {
     background-color: lightgray;
     font-family: 'Courier New';
 }
+.list{
+    background-color:#59146B;
+    font-size: 40px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
