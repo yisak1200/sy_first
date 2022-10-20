@@ -6,14 +6,20 @@ h1 {
 }
 
 p {
-    font-size: 35px;
+    font-size: 40px;
     text-align: center;
-    background-color: lightgray;
+    background-color: lightblue;
     font-family: 'Courier New';
+    font-weight: bold;
+    padding: 10px;
 }
 
-.list{
-    background-color:#59146B;
+.list {
+    background-color: purple;
+    width: 550px;
+    margin: auto;
+    border: 5px solid black;
+    padding: 5px;
     font-size: 40px;
     color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
